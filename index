@@ -3,17 +3,20 @@
   <head>
 <title>My favorite recipe</title>
    </head>
-  <body>
-    <p1><strong>My favorite recipe</p1>
+   
+<body>
+
+    <h1><strong>My favorite recipe</h1>
     </br>
-    <p2>Name:</strong><p2>
-    <a1> Fried Rice</a1></br>
+    <p1>Name:</strong><p1>
+    <p2> Fried Rice</p2></br>
     </br>
-  <p3><u>Description:</u></p3>
-  <a2> The fried rice is a known dish in the chinese culture. It is a mixture of rice, vegetables and meat. The content may vary.</a2>
+  <h2><u>Description:</u></h2>
+  <p3> The fried rice is a known dish in the chinese culture. It is a mixture of rice, vegetables and meat. The content may vary.</p3>
   </br>
 </br>
-<p4><u>Ingredients:</u></p4>
+
+<h3><u>Ingredients:</u></h3>
 <ul>
   <li>Rice</li>
   <li>Sesame oil</li>
@@ -21,6 +24,20 @@
   <li>Eggs</li>
   <li>Shrimp</li>
 </ul>
+</br></br>
 
-    
+<p4><u>Steps:</u></p4>
+</br>
+<ol>
+  <li> Cook the rice.</li>
+  <li> Start by cooking the meat.</li>
+  <li> When the meat is cooked, add the eggs and the vegetables.</li>
+  <li> Once all the top steps are done, put all of it together and add some soya sauce.</li>
+</ol>
+<img src = "FriedRice.jpg">
+
+<
+<a href="mailto:lawrencekaiwei@gmail.com?cc=aharaz.crcmail.net&subject=Missing%20Ingredients&body=Here%20are%20the%20missing%20ingredients">Buy these missing ingredients</a>
+
+</body>
 </html>
