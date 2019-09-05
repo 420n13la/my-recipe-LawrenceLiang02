@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>My favorite recipe</title>
+   </head>
+  <body>
+    <p1><strong>My favorite recipe</p1>
+    </br>
+    <p2>Name:</strong><p2>
+    <a1> Fried Rice</a1></br>
+    </br>
+  <p3><u>Description:</u></p3>
+  <a2> The fried rice is a known dish in the chinese culture. It is a mixture of rice, vegetables and meat. The content may vary.</a2>
+  </br>
+</br>
+<p4><u>Ingredients:</u></p4>
+<ul>
+  <li>Rice</li>
+  <li>Sesame oil</li>
+  <li>Peas and Carror</li>
+  <li>Eggs</li>
+  <li>Shrimp</li>
+</ul>
+
+    
+</html>

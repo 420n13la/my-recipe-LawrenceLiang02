@@ -1,0 +1,11 @@
+<style>
+body{}
+p1 {
+  font-size: 30px;
+  color: black;
+}
+
+a1 {
+  color: red;
+}
+</style>
